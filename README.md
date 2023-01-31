@@ -1,2 +1,2 @@
 # Coffe-Machine
-Simple implementation of coffe machine
+Simple implementation of coffee machine
