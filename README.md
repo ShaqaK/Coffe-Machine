@@ -1,4 +1,4 @@
-# Coffe-Machine
+# Coffee-Machine
 Simple implementation of coffee machine
 
 #Coffee Machine Program Requirements
